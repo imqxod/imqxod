@@ -5,7 +5,7 @@
 
 <h4 align="center">I know: </h5>
 <p align="center">
-          <img src="https://skillicons.dev/icons?i=py,html,css,js,java,cpp,csharp"/>
+          <img src="https://skillicons.dev/icons?i=py,html,css,js,java,cpp,cs"/>
 </p>
 
 <br>
