@@ -3,7 +3,6 @@
 <h1 align="center">qxod</h1>
 <a href="https://github.com/imqxod"></a>
 
-<h4 align="center">I know: </h5>
 <p align="center">
           <img src="https://skillicons.dev/icons?i=py,html,css,js,java,cpp,cs"/>
 </p>
